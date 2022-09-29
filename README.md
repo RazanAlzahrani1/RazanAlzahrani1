@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Arabic Poem](https://github.com/RazanAlzahrani1/Arabic_Poem/tree/main)
 
-- 🌱 I’m currently learning **Power BI, Swift**
-
 - 📫 How to reach me **irazanalzahrani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
